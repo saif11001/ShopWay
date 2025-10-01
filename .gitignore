@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+npm-debug.log
