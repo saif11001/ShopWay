@@ -1,4 +1,4 @@
-# ShoWay
+# ShopWay
 
 ShoWay is a full-stack **E-commerce application** built with **Node.js, Express, and Sql**, providing a simple yet powerful shopping experience with authentication, product management, and cart features.  
 
