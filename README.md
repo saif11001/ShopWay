@@ -1,6 +1,6 @@
 # ShoWay
 
-ShoWay is a full-stack **E-commerce application** built with **Node.js, Express, and MongoDB**, providing a simple yet powerful shopping experience with authentication, product management, and cart features.  
+ShoWay is a full-stack **E-commerce application** built with **Node.js, Express, and Sql**, providing a simple yet powerful shopping experience with authentication, product management, and cart features.  
 
 ---
 
@@ -27,10 +27,13 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
 
 ## Getting Started
 
-1. Install dependencies:
+## Getting Started
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/ShoWay.git
    cd ShoWay
+
    
 2.Install dependencies:
   ```bash
@@ -43,7 +46,7 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
   JWT_SECRET=your_secret_key
   STRIPE_SECRET=your_stripe_secret_key
 
-4. Start the serve:
+4. Start the server:
    ```bash
   npm start
 
@@ -56,7 +59,7 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
 - POST /api/auth/login
 - POST /api/auth/logout
 
-### **user**
+### **User**
 
 - GET /api/users/me (Get current user)
 - PATCH /api/users/update (Update user info)
