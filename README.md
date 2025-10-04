@@ -102,7 +102,7 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
 ## Author
 
 Saif Eldeen Sobhi
-- [LinkedI] (https://www.linkedin.com/in/saif-eldeen-sobhy/)
+- [LinkedIn] (https://www.linkedin.com/in/saif-eldeen-sobhy/)
 
 
 
