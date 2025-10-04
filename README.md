@@ -27,20 +27,17 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
 
 ## Getting Started
 
-## Getting Started
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/ShoWay.git
-   cd ShoWay
-
-   
+   cd ShopWay
+      
 2.Install dependencies:
   ```bash
   npm install
 
 3. Create a .env file with the following variables:
-   ```bash
+  ```bash
   PORT=5000
   MONGO_URI=your_mongodb_connection_string
   JWT_SECRET=your_secret_key
