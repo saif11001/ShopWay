@@ -45,7 +45,7 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
 
 4. Start the server:
    ```bash
-  npm start
+   npm start
 
 ---
 
