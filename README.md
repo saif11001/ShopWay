@@ -37,11 +37,11 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
    npm install
 
 3. Create a .env file with the following variables:
-  ```bash
-  PORT=5000
-  MONGO_URI=your_mongodb_connection_string
-  JWT_SECRET=your_secret_key
-  STRIPE_SECRET=your_stripe_secret_key
+   ```bash
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_secret_key
+   STRIPE_SECRET=your_stripe_secret_key
 
 4. Start the server:
    ```bash
