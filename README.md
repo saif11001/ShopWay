@@ -32,8 +32,8 @@ ShoWay is a full-stack **E-commerce application** built with **Node.js, Express,
    git clone https://github.com/YourUsername/ShoWay.git
    cd ShopWay
       
-2.Install dependencies:
-  ```bash
+2. Install dependencies:
+   ```bash
   npm install
 
 3. Create a .env file with the following variables:
